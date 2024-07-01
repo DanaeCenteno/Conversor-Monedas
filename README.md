@@ -1,7 +1,8 @@
-##Descripción
+## Descripción
+
 Para hacer uso de esta Api es necesario obtener una clave unica que proporciona esta Api para ello solo necesitaras una direccion de correo electronico y despues esta lista para usarse.
 
-##Funcionalidad
+## Funcionalidad
 
 Al ejecutar el programa:
 1. Deberas elegir la opcion deseada para hacer el cambio de moneda
